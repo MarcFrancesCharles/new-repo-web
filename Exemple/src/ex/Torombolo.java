@@ -8,6 +8,8 @@ public class Torombolo {
 
 		System.out.println("Hola12");
 
+		System.out.println("Hola1");
+		System.out.println("asdas");
 	}
 
 }
